@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BottomNavbar</string>
+    <string name="subscription">Subscription</string>
+    <string name="profile">Profile</string>
+    <string name="home">Home</string>
+    <string name="watch_trailer">Watch Trailer</string>
+    <string name="play_now">Play Now</string>
+</resources>

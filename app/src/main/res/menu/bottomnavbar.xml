@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navhome"
+        android:layout_width="wrap_content"
+        android:icon="@drawable/baseline_home_24"
+        android:layout_height="wrap_content"
+        android:visible="true"
+        android:title="Home" />
+    <item
+        android:id="@+id/navsubscrption"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visible="true"
+        android:icon="@drawable/baseline_subscriptions_24"
+        android:title="Subscription" />
+    <item
+        android:id="@+id/watchlater"
+        android:layout_width="wrap_content"
+        android:icon="@drawable/baseline_watch_later_24"
+        android:layout_height="wrap_content"
+        android:title="Watch" />
+    <item
+        android:id="@+id/navprofile"
+        android:layout_width="wrap_content"
+        android:icon="@drawable/baseline_account_circle_24"
+        android:layout_height="wrap_content"
+        android:title="Profile" />
+</menu>
